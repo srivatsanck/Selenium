@@ -14,6 +14,8 @@ public class KeyboardMouse {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		//test
+		
+		//Test2
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
